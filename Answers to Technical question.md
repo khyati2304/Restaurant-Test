@@ -25,4 +25,5 @@ Technical questions
 
 5.	Please describe yourself using JSON.
 
-    JSON is used in transmitting data between servers and applications. I have used JSON at a novice stage in a web application for transmitting data. It is easy to read and interpret the structured data like XML. 
+    
+     
