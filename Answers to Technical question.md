@@ -25,5 +25,6 @@ Technical questions
 
 5.	Please describe yourself using JSON.
 
-    
+    Kindly review the below link:
+    https://github.com/khyati2304/Restaurant-Test/blob/master/Describe-yourself.json
      
