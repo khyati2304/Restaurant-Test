@@ -1,0 +1,53 @@
+{
+  "Id": "khyatip2330@gmail.com",
+  "Name": "Khyati Patel",
+  "Address": "1705 McCowan Rd. Scarborough ON M1S 4L2",
+  
+  "Experience": {
+    "BMO": "Quality Assurance Analyst",
+    "Soft.Net": "Trainee Programmer"
+  },
+  "Education": {
+    "Masters": "UOW",
+    "Bachelor": "SCET"
+  },
+  
+  "Skills":
+    ["Collaborative","Communication skills","Presentation skills","Creative thinking","Motivated","Self-Starter","Time management","Organizational skills"],
+    
+    "Technical skills": 
+    {
+      "Languages/Framework": ["C","C++","C#","JAVA","Python","ASP.NET MVC"],
+      "Scripting Language": ["Shell","JavaScript","React"],
+      "Database System": ["MS SQL","MySQL"],
+      "Methodologies": ["Agile","Waterfall"],
+      "Markup Languages": ["HTML5","CSS"],
+      "Tools": ["JIRA","Confluence","Ansible","Git Bash","Selenium"],
+      "Software": ["Microsoft Suite","WPS suite"]
+    },
+  
+  "Projects": [
+    {
+      "title": "Sports Line",
+      "Technology used": ["Python","Django","Bootstrap"],
+      "Github Link": "https://github.com/khyati2304/Sports-Line"
+    },
+    {
+      "title": "Online Game",
+      "Technology used": ["C","Shell Script"],
+      "Github Link": "https://github.com/khyati2304/Online-Game"
+    },
+    {
+      "title": "Student Info System",
+      "Technology used": ["ASP.NET MVC","C#","HTML5","CSS","MS SQL"],
+      "Github Link": "https://github.com/khyati2304/SIS-Web-Application"
+    }
+    ],
+    "Certificates":
+    {
+      "Learning Ansible": "LinkedIn Learning",
+      "React": "Udemy",
+      "Learning Python": "Lynda.com",
+      "SwOT analysis and ethical working":"Learn India Initiative"
+    }
+}
